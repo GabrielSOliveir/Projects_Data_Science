@@ -14,7 +14,7 @@ My credentials include a MBA in Operational Research from the Aeronautics Instit
 **Background in:** Python, Machine Learning, Operational Research and Mathematical Optimisation.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-1aa212270/)
 * [Medium](https://www.medium.com)
 
 
