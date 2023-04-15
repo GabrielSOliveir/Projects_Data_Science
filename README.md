@@ -18,7 +18,6 @@ My credentials include a MBA in Operational Research from the Aeronautics Instit
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
-Veja os tutoriais projetos publicados:
+## Projects:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Python_Scraping_Excel:** https://bit.ly/python_scrape_excel
